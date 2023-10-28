@@ -179,7 +179,7 @@ Example
 
 In the following track layout:
 
-The "zero position" is /
+The "zero position" is.. /
 Train A is Aaaa and is at position 147
 Train B is Bbbbbbbbbbb and is at position 288
 There are 3 stations denoted by S
